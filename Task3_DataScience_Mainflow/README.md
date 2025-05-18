@@ -6,10 +6,10 @@
 ## Files Included
 | File | Description |
 |------|-------------|
-| **Customer_Segmentation_Task3.ipynb** | Jupyter notebook containing the full workflow: data cleaning, feature scaling, optimal-k search, K-Means clustering. |
-| **Mall_Customers.csv** | Raw customer dataset ( *CustomerID, Age, AnnualIncome, SpendingScore,* etc.). |
-| **clustered_customers.csv** | Same records as above **plus** a `Cluster` column produced by the notebook’s final K-Means model. |
-| **README.md** | (this file) task description, steps, and requirements. |
+| **`Customer_Segmentation_Task3.ipynb`** | Jupyter notebook containing the full workflow: data cleaning, feature scaling, optimal-k search, K-Means clustering. |
+| **`Mall_Customers.csv`** | Raw customer dataset ( *CustomerID, Age, AnnualIncome, SpendingScore,* etc.). |
+| **`clustered_customers.csv`** | Same records as above **plus** a `Cluster` column produced by the notebook’s final K-Means model. |
+| **`README.md`** | (this file) task description, steps, and requirements. |
 
 ---
 
