@@ -4,7 +4,7 @@
 ### Files Included
 - **`Sample - Superstore.csv`**: Raw dataset containing sales and business metrics.
 - **`cleaned_data.csv`**: Cleaned version after handling missing values, duplicates, and formatting issues.
-- **Task2_DataScience_Mainflow.ipynb**: Contains all steps from data cleaning to modeling.
+- **`Task2_DataScience_Mainflow.ipynb`**: Contains all steps from data cleaning to modeling.
 
 ---
 
