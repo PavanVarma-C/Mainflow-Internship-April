@@ -1,0 +1,38 @@
+# Data Analysis & Data Science with Python  
+**Task - 8: Feature Engineering & Fraud Detection with Decision Trees**
+
+## Files Included
+- `fraud_detection_synthetic.csv`  
+  Synthetic dataset with transaction data (TransactionID, Amount, Type, IsFraud)
+  
+- `Task8_FeatureEngineering_FraudDetection.ipynb`  
+  Complete pipeline: feature creation, hyperparameter tuning, decision tree classifier
+
+---
+
+## Overview
+This project focuses on improving classification accuracy for fraud detection using engineered features and model tuning techniques.
+
+---
+
+### 1. Feature Engineering & Model Tuning  
+**Objective:**  
+Improve classification model performance using additional features and optimized parameters.
+
+**Key Steps:**
+- Create new features from transaction data (e.g., log amount, transaction type encoding)
+- Use `GridSearchCV` for hyperparameter tuning on Decision Tree
+- Evaluate performance using Precision, Recall, F1-score
+
+---
+
+### 2. Fraud Detection with Decision Trees  
+**Objective:**  
+Detect fraudulent transactions from structured financial data.
+
+**Key Steps:**
+- Load and preprocess the dataset (label encoding, handle nulls)
+- Train a `DecisionTreeClassifier` on the preprocessed data
+- Evaluate results with classification report (Precision, Recall, F1)
+- Discuss further improvements with ensemble models like Random Forest
+ 
