@@ -2,9 +2,7 @@
 **Task - 8: Feature Engineering & Fraud Detection with Decision Trees**
 
 ## Files Included
-- `fraud_detection_synthetic.csv`  
-  Synthetic dataset with transaction data (TransactionID, Amount, Type, IsFraud)
-  
+ 
 - `Task8_FeatureEngineering_FraudDetection.ipynb`  
   Complete pipeline: feature creation, hyperparameter tuning, decision tree classifier
 
